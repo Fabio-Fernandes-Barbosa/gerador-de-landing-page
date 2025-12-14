@@ -1,0 +1,8 @@
+{
+  "name": "LandoGen AI",
+  "description": "Um Micro-SaaS para gerar Landing Pages profissionais com copy, ativos visuais e estratégia de marketing usando modelos Gemini.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
